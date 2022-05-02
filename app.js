@@ -1,6 +1,5 @@
 var baseUrl = "https://api.coinranking.com/v2/coins"
 var proxyUrl = "https://cors-anywhere.herokuapp.com/"
-var apiKey = "coinrankingc032026f93e3b94c047c89523ca837327c4dac81e1070686"
 var coinsData = []
 // var current_page = 1
 // var records_per_page = 10;
